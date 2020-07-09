@@ -1,4 +1,9 @@
-![](https://i.imgur.com/aFhIVnB.jpg)
+<!-- ![](https://i.imgur.com/ZfAC2aO.gif) -->
+<p align="center">
+  <img src="https://i.imgur.com/ZfAC2aO.gif">
+</p>
+
+<!-- ![](https://i.imgur.com/aFhIVnB.jpg) -->
 
 
 <!-- # Compilation of my work
