@@ -2,7 +2,6 @@
 
 
 # Compilation of my work
-A compilation of most of my significant work. 
 
 ## Research
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings".
@@ -42,7 +41,7 @@ A compilation of most of my significant work.
 - [Whatsapp.moe](https://github.com/TimeTraveller-San/whatsapp.moe) - whatsapp.moe is a google chrome extensions and a mozilla firefox add-on to make whatsapp cute
 - [ML frontend template](https://github.com/TimeTraveller-San/ML-frontend-template) - A simple ML frontend template to receive ML features from an HTML form and pass it onto the flask API to fetch the result
 
-# Academic
+## Academic
 - [Bezier curve](https://github.com/TimeTraveller-San/bezier-curve) - Bezier curve animated implementation on python
 - [Turing machine simulator](https://github.com/TimeTraveller-San/Turing-machine-simulator) - Python implementation of a Turing machine simulator with visualization
 - [Data Encryption Standard](https://github.com/TimeTraveller-San/Data-Encryption-Standard) - Python implementation of Data Encryption Standard (DES) - Computer Networks
