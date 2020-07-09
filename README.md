@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/aFhIVnB.jpg)
 
 
-# Compilation of my work
+<!-- # Compilation of my work
 
 ## Research
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings".
@@ -45,4 +45,4 @@
 - [Bezier curve](https://github.com/TimeTraveller-San/bezier-curve) - Bezier curve animated implementation on python
 - [Turing machine simulator](https://github.com/TimeTraveller-San/Turing-machine-simulator) - Python implementation of a Turing machine simulator with visualization
 - [Data Encryption Standard](https://github.com/TimeTraveller-San/Data-Encryption-Standard) - Python implementation of Data Encryption Standard (DES) - Computer Networks
-- [Recursive Descent Parser](https://github.com/TimeTraveller-San/Recursive-Descent-Parser) - A Simple Recursive Descent Parser for a simple grammar
+- [Recursive Descent Parser](https://github.com/TimeTraveller-San/Recursive-Descent-Parser) - A Simple Recursive Descent Parser for a simple grammar -->
