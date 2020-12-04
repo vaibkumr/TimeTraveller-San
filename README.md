@@ -1,3 +1,4 @@
+     _________________________________________ 
     / Hi, I am Vaibhav, a computer science    \
     | graduate currently working as an        |
     | associate data scientist at             |
@@ -17,3 +18,4 @@
          (|     | )
         /'\_   _/`\
         \___)=(___/
+    
