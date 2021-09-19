@@ -1,14 +1,13 @@
-          _________________________________________ 
-         / Hi, I am Vaibhav. A computer science    \
-         | graduate currently working as an        |
-         | associate data scientist at             |
-         | UnitedHealth Group. I am also a         |
-         | researcher primarily focusing upon      |
-         | Natural Language Processing, Machine    |
-         | Learning and Reinforcement Learning.    |
-         | Also, I am not a penguin, much worse, I |
-         \ am a human.                             /
-          ----------------------------------------- 
+         ________________________________________
+         / Hi, I am Vaibhav Kumar. I am currently \
+         | learning as a master's student in the  |
+         | University of California, Los Angeles  |
+         | CS Department. Previously I worked as  |
+         | an associate data scientist in the     |
+         | healthcare industry at Optum,          |
+         | UnitedHealth Group. Also, I am not a   |
+         \ penguin; much worse, I am a human.     /
+          ----------------------------------------
             \
              \
                  .--.
