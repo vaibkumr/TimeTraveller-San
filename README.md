@@ -1,13 +1,11 @@
-         ________________________________________
-         / Hi, I am Vaibhav Kumar. I am currently \
-         | learning as a master's student in the  |
-         | University of California, Los Angeles  |
-         | CS Department. Previously I worked as  |
-         | an associate data scientist in the     |
-         | healthcare industry at Optum,          |
-         | UnitedHealth Group. Also, I am not a   |
-         \ penguin; much worse, I am a human.     /
-          ----------------------------------------
+          _________________________________________
+         / Hello, I am Vaibhav Kumar, a Master's   \
+         | student in the CS Department of UCLA. I |
+         | work on natural language processing,    |
+         | currently I am working on decoding      |
+         | algorithms for language generation at   |
+         \ Amazon Alexa AI, Sunnyvale.             /
+          -----------------------------------------
             \
              \
                  .--.
